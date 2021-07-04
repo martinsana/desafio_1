@@ -11,7 +11,7 @@
 <p>#githubactions</p>
 <p>#githubpages - https://martinsana.github.io/desafio_1/</p>
 
-<h1>Testes rodando</h1>
+<h3>Testes rodando</h3>
 
 ![Alt Text](https://github.com/martinsana/desafio_1/blob/main/register.spec.js.gif)
 

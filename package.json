@@ -6,9 +6,7 @@
   "scripts": {
     "cy:open": "npx cypress open",
     "cy:run": "npx cypress run",
-    "report:merge": "mochawesome-merge > full_report.json",
-    "report:mocha": "marge full_report.json",
-    "report:clean": "rimraf mochawesome-report full_report.json"
+    "report:clean": "rimraf mochawesome-report"
   },
   "author": "",
   "license": "ISC",

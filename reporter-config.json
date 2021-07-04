@@ -2,6 +2,7 @@
   "reporterEnabled": "mochawesome",
   "mochawesomeReporterOptions": {
     "reportDir": "mochawesome-report",
+    "reportFilename": "index.html",
     "quiet": true,
     "overwrite": false,
     "html": true,
